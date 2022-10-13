@@ -20,10 +20,6 @@ Sou formado em psicologia e estou em transição de carreira.
 
 ![Caioamisterdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioamisterdam&theme=city_lights)
 
-## Projetos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caioamisterdam&repo=jornada-dev.github.io&theme=dark)
-
 ## Redes
 
 [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="30">](behance.net/caioamisterdam)
