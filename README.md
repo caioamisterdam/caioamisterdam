@@ -1,6 +1,6 @@
 # Olá 👋
 
-Sou um psicólogo em transição de carreira. 
+Sou formado em psicologia e estou em transição de carreira. 
 <br>Apaixonado por design e tecnologia, estou estudando UI/UX Design e desenvolvimento web.
 
 ## Interesses
